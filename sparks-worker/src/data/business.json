@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "name": "EcoThreads",
+    "industry": "clothing",
+    "values": ["eco-friendly", "ethical", "affordable"],
+    "description": "Sustainable basics made with organic cotton.",
+    "image": "https://picsum.photos/seed/ecothreads/600/400"
+  },
+  {
+    "id": "2",
+    "name": "Modest Muse",
+    "industry": "clothing",
+    "values": ["modest", "inclusive", "ethical"],
+    "description": "Elegant modest fashion with inclusive sizing.",
+    "image": "https://picsum.photos/seed/modestmuse/600/400"
+  }
+]
